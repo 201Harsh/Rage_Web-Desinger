@@ -1,0 +1,235 @@
+@media only screen and (max-width:850px) {
+    .top {
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+        background-color: rgb(43, 43, 43);
+    }
+
+    .left {
+        margin-left: 15px;
+    }
+
+    .right ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        transform: translate(-443px 10px);
+        transition: 0.3s all;
+    }
+
+    .right ul.show {
+        display: flex;
+    }
+
+    .menu-icon {
+        display: block;
+        color: white;
+        margin-top: 12px;
+        margin-left: 15px;
+        font-size: 25px;
+        cursor: pointer;
+        width: 6%;
+    }
+
+    .banner {
+        top: 0;
+    }
+
+    .container {
+        padding-top: 0;
+    }
+
+    .container h1 {
+        margin-left: 0;
+    }
+
+    .get_started {
+        width: 36%;
+        margin-left: 32px;
+    }
+
+    .design_btn {
+        width: 36%;
+        height: auto;
+    }
+
+    .second {
+        height: auto;
+    }
+
+    .about_header {
+        width: 65%;
+        margin-left: 72px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .about {
+        display: block;
+    }
+
+    .about_img {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+    }
+
+    .doc {
+        margin-top: 0px;
+    }
+
+    .third {
+        margin-top: 264px;
+    }
+
+    .skills {
+        display: block;
+    }
+
+    .skills_head {
+        width: 100%;
+    }
+
+    .skills_head p {
+        margin-left: 50px;
+    }
+
+    .get {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .forth {
+        margin-top: 532px;
+        height: auto;
+    }
+
+    .skills_chart {
+        width: 100%;
+        height: auto;
+    }
+
+    .works_body {
+        display: block;
+    }
+
+    .work_img {
+        width: 100%;
+    }
+
+    .five {
+        height: auto;
+
+    }
+
+    .service_body {
+        display: block;
+    }
+
+    .s1 {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 12px;
+    }
+
+    .hire {
+        height: auto;
+        display: block;
+        background-size: cover;
+    }
+
+    .hire_us_btn {
+        width: 35%;
+        margin-bottom: 18px;
+    }
+
+    .hire_us_btn1 {
+        width: 35%;
+        margin-bottom: 18px;
+    }
+
+    .seventh {
+        height: auto;
+        margin-top: -12px;
+    }
+
+    .test_body {
+        width: auto;
+        margin-left: 13px;
+    }
+
+    .ri,
+    .le {
+        display: none;
+    }
+
+    .eigth {
+        height: auto;
+    }
+
+    .prices_header p {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .prices {
+        display: block;
+    }
+
+    .price {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 32px;
+    }
+
+    .ninth {
+        height: auto;
+    }
+
+    .companies {
+        display: block;
+        height: auto;
+    }
+
+    .company {
+        width: 100%;
+        margin-left: 100px;
+    }
+
+    .subscribe {
+        height: auto;
+    }
+
+    .sub_body p {
+        width: auto;
+        margin-left: 0;
+    }
+
+    .sub_body input {
+        margin-left: 18px;
+        width: auto;
+        margin-bottom: 12px;
+    }
+
+    .btn {
+        margin-bottom: 18px;
+        width: 35%;
+    }
+
+    footer {
+        height: auto;
+    }
+
+    .foot_head ul {
+        display: block;
+        margin-left: 100px;
+    }
+
+    .follows {
+        margin-left: 0;
+        margin-top: 32px
+    }
+}
