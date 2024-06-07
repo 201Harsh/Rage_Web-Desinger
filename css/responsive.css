@@ -192,6 +192,7 @@
     .companies {
         display: block;
         height: auto;
+        overflow: hidden;
     }
 
     .company {
