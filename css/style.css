@@ -446,6 +446,7 @@ html {
     font-weight: 400;
     font-size: 20px;
     border: 2px solid white;
+    cursor: pointer;
 }
 
 .hire_us_btn1 {
@@ -461,6 +462,7 @@ html {
     font-weight: 400;
     font-size: 20px;
     border: 2px solid white;
+    cursor: pointer;
 }
 
 .hire_us_btn:hover {
